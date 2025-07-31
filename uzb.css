@@ -1,0 +1,44 @@
+h1{
+    background-color: aqua;
+    border-radius: 15px;
+    border: 3px solid red;
+    text-align: center;
+}
+.Box_1{
+    color: rgb(31, 206, 31);
+}
+.Box_2{
+    color: red;
+}
+.Box_3{
+    color: yellow;
+}
+.Box_4{
+    color: rgb(57, 118, 57);
+}
+.Box_5{
+    color: gray;
+}
+table{
+    width: 1000px;
+    height: 31px;
+    text-align: center;
+}
+th{
+    background-color: red;
+}
+.Box_7{
+    background-color: green;
+}
+td{
+    background-color: rgb(143, 52, 143);
+}
+.Box_8{
+    color: rgb(255, 251, 0);
+    background-color: white;
+}
+.Box_9{
+    width: 210px;
+    height: 30px;
+    background-color: rgb(20, 212, 20);
+}
